@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /opt/deepseek-desktop-py
+python3 main.py

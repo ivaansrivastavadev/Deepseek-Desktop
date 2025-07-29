@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=DeepSeek Desktop (Py)
+Comment=DeepSeek Desktop Client
+Exec=/usr/local/bin/deepseek-desktop-py
+Icon=deepseek-desktop-py
+Terminal=false
+Type=Application
+Categories=Network;InstantMessaging;
+StartupWMClass=DeepSeek Desktop
