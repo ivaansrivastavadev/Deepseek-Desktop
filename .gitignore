@@ -1,5 +1,7 @@
 # venv files
 venv/
 
-# pakage files
+# package files
 deepseek-desktop-py.deb
+
+deepseek-desktop-py/
